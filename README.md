@@ -24,7 +24,7 @@
 | ------------- |:-------------:|
 | [DDOS-Simulator](https://github.com/WorkofAditya/DDOS-Simulator)      | Script designed to perform DDOS attacks. |
 | [PhisherMan](https://workofaditya.github.io/PhisherMan/)      |   Script for performing phishing attacks. |
-| [MaxEdit](https://WorkofAditya.github.io/MaxEdit/)       |   Live Markdown Editor That support HTML too. |
+| [ChatBot](https://chatbot-b3b.pages.dev/)       |   A secure offline vault to stores your personal document. |
 | [AirLink](https://airlink.up.railway.app/)      |  AirLink is a user-friendly web-based file-sharing platform.|
 
 
