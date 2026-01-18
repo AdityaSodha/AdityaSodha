@@ -23,7 +23,7 @@
 | Projects  | Description  |
 | ------------- |:-------------:|
 | [DDOS-Simulator](https://github.com/WorkofAditya/DDOS-Simulator)      | Script designed to perform DDOS attacks. |
-| [PhisherMan](https://workofaditya.github.io/PhisherMan/)      |   Script for performing phishing attacks. |
+| [PhisherMan](https://github.com/WorkofAditya/ChatBot)      |   Script for performing phishing attacks. |
 | [ChatBot](https://chatbot-b3b.pages.dev/)       |   A secure offline vault to stores your personal document. |
 | [AirLink](https://airlink.up.railway.app/)      |  AirLink is a user-friendly web-based file-sharing platform.|
 
