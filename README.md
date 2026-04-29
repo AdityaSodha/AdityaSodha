@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/Adityasinhji_Sodha/" target="_blank">
+  <a href="" target="_blank">
     <img src="assets/insta2.png" alt="Insta" width="40" />
   </a>
   <a href="https://gitlab.com/WorkofAditya" target="_blank">
