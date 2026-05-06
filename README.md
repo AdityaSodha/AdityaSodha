@@ -2,22 +2,12 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="_blank">Adityasinh</a></h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62e7112a-2522-475f-a4fb-9000ead0ea5e" alt="Profile GIF" width="150" />
+  <img src="https://github.com/user-attachments/assets/db1495c5-f6b7-4c2e-bbdc-fc4f34518468" alt="Profile GIF" width="150" />
 </p>
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="assets/insta2.png" alt="Insta" width="40" />
-  </a>
-  <a href="https://gitlab.com/WorkofAditya" target="_blank">
-    <img src="assets/gitlab.png" alt="GitLab" width="40" />
-  </a>
-  <a href="https://codepen.io/WorkofAditya" target="_blank">
-    <img src="assets/codepen.png" alt="CodePen" width="40" />
-  </a>
-</p>
 
-<div> <p align="center"><b>🌟 List of My Open Source Projects 🌟</b></p> </div>
+
+<div> <p align="center"><b>List of My Open Source Projects</b></p> </div>
 <div align="center">
   
 | Projects  | Description  |
